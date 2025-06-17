@@ -1,4 +1,3 @@
-# CP_Ticketing_Automation
 
 # Cypress Automation Framework (Node.js + BDD + POM)
 
