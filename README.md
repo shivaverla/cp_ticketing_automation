@@ -12,12 +12,12 @@ This repository contains a Cypress-based automation framework using:
 ## Setup Instructions
 ###  Install Dependencies
 Run the following command to install required packages:
-npm install
+- npm install
 
 ###  Run Tests
 Execute tests using Cypress:
-npx cypress run --browser chrome --headed
-npx cypress open
+- npx cypress run --browser chrome --headed
+- npx cypress open
 
 ###  Test Reports
 ![image](https://github.com/user-attachments/assets/dd2f15e0-7fe6-4e96-993e-6033f31d3e1e)
