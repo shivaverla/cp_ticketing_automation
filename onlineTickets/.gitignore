@@ -1,0 +1,23 @@
+# Cypress generated files and directories
+/cypress/screenshots/
+/cypress/videos/
+/cypress/downloads/
+
+# Node modules
+/node_modules/
+
+# Environment variables (if you store configuration or secrets in .env files)
+.env
+
+# Test artifacts (if you have custom test artifacts that shouldn't be versioned)
+/cypress/fixtures/
+
+# Logs and other temporary files
+*.log
+*.tmp
+*.swp
+
+# Dependencies and build artifacts
+/dist/
+/build/
+/coverage/c
