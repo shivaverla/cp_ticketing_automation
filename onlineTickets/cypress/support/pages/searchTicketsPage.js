@@ -66,15 +66,6 @@ export class SearchTickets {
         });
     }
 
-    clickCancelButton() {
-    cy.get(SearchTickets.CANCEL_BTN, { timeout: 5000 })
-        .should('be.visible')
-        .scrollIntoView()
-        .click()
-        .wait(1000);
-}
-
-
     validateFormFields() {
     this.formFields.forEach((field) => {
         cy.get(field.selector)
