@@ -4,7 +4,7 @@ export class SelectJourney {
     static CANCEL_BTN = 'input[id="exitButton"]';
 
     clickCancelButton() {
-        cy.get(SelectJourney.CANCEL_BTN).click().wait(1000);
+        cy.get(SelectJourney.CANCEL_BTN).click( { timeout: 5000 });
     }
 
     verifyPageTitle(expectedTitle) {
