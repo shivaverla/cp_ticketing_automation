@@ -21,5 +21,5 @@ npx cypress open
 
 ###  Test Reports
 ![image](https://github.com/user-attachments/assets/dd2f15e0-7fe6-4e96-993e-6033f31d3e1e)
-![image](https://github.com/user-attachments/assets/dd2f15e0-7fe6-4e96-993e-6033f31d3e1e)
+
 
