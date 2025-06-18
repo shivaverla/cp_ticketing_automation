@@ -1,4 +1,6 @@
-
+# Task 1:
+- Automate booking on https://www.cp.pt/passageiros/en/buy-tickets, selecting departure from Lagos and arrival at Porto - Campanha, with travel dates set for 3 and 5 days from today. 
+ - Ensure cancellation retains   search parameters.
 # Cypress Automation Framework (Node.js + BDD + POM)
 
 ## Project Overview
@@ -23,6 +25,6 @@ Execute tests using Cypress:
 
 
 # Task 2 and Task 3:  
-- Docuemnt attached in the cypress folder
+- The document has been added to the Cypress folder.
 
 
